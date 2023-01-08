@@ -15,13 +15,15 @@ A CODE_OF_CONDUCT dictates how conversation during code updates, issue communica
 
 ## Table Of Contents
 
-- [Our Pledge](#our-pledge)
-- [Our Responsibilities](#our-responsibilities)
-- [Our Standards](#our-standards)
-- [Scope](#scope)
-- [Enforcement](#enforcement)
-- [Contacting Maintainers](#contacting-maintainers)
-- [Attribution](#attribution)
+- [NexT](#next)
+  - [Table Of Contents](#table-of-contents)
+  - [Our Pledge](#our-pledge)
+  - [Our Responsibilities](#our-responsibilities)
+  - [Our Standards](#our-standards)
+  - [Scope](#scope)
+  - [Enforcement](#enforcement)
+  - [Contacting Maintainers](#contacting-maintainers)
+  - [Attribution](#attribution)
 
 ## Our Pledge
 
